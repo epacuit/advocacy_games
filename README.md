@@ -38,6 +38,7 @@ The following notebooks contain the code used to generate the visualizations in 
 * visualization_popsizes_pressures.ipynb
 * visualization_pos_neg_pressures.ipynb
 * visualization_simulation_explanation.ipynb
-* visualization.ipynb
+* visualization.ipynb, **Note**: The csv file needed for this visualization is zipped to reduce the size.  To run this notebook, unzip the file `agent_data_init_model_data_init.zip` in the `simulation_explanation` directory.
 * visualize_diff_initial_conditions.ipynb
 * visualize_diff_payouts.ipynb
+
