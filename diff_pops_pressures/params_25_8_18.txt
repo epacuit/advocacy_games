@@ -1,0 +1,15 @@
+┌──────────────────────────┬──────────────────────┐
+│                     Keys │               Values │
+├──────────────────────────┼──────────────────────┤
+│             base_payouts │ [4.0, 3.0, 1.0, 0.0] │
+│                tolerance │                 0.05 │
+│            num_defectors │                   12 │
+│          num_cooperators │                   13 │
+│              num_neutral │                    0 │
+│    max_pos_neg_pressures │               [4, 4] │
+│               population │                   25 │
+│       a_m_mutation_rates │          [0.2, 0.15] │
+│   a_m_weights_of_present │           [0.3, 0.2] │
+│ a_m_reassess_frequencies │          [0.03, 0.1] │
+│              m_increment │                 0.15 │
+└──────────────────────────┴──────────────────────┘

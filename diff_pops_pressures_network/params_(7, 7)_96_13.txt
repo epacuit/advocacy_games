@@ -1,0 +1,19 @@
+┌──────────────────────────┬──────────────────────┐
+│                     Keys │               Values │
+├──────────────────────────┼──────────────────────┤
+│              m_increment │                 0.15 │
+│         interaction_type │                local │
+│             base_payouts │ [4.0, 3.0, 1.0, 0.0] │
+│                     dims │               (7, 7) │
+│                tolerance │                 0.05 │
+│            pr_cooperator │                  0.5 │
+│               pr_neutral │                  0.0 │
+│               population │                   49 │
+│    max_pos_neg_pressures │             [48, 48] │
+│       a_m_mutation_rates │          [0.2, 0.15] │
+│   a_m_weights_of_present │           [0.3, 0.2] │
+│ a_m_reassess_frequencies │          [0.03, 0.1] │
+│              pr_defector │                  0.5 │
+│                numagents │                   49 │
+│           influence_type │                local │
+└──────────────────────────┴──────────────────────┘
